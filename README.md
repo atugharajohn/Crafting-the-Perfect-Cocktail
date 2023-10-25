@@ -18,3 +18,16 @@ We will predict the survival of patients with heart failure from serum creatinin
 - It is a binary classification with multiple numerical and categorical features.
 
 
+## About the data:
+- age: Age of the patient
+- anemia: If the patient had the hemoglobin below the normal range
+- creatinine_phosphokinase: The level of the creatine phosphokinase in the blood in mcg/L
+- diabetes: If the patient was diabetic
+- ejection_fraction: Ejection fraction is a measurement of how much blood the left ventricle - - pumps out with each contraction
+- high_blood_pressure: If the patient had hypertension
+- platelets: Platelet count of blood in kilo platelets/mL
+- serum_creatinine: The level of serum creatinine in the blood in mg/dL
+- serum_sodium: The level of serum sodium in the blood in mEq/L
+- sex: The sex of the patient
+
+
