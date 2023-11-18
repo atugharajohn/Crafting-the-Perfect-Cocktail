@@ -40,4 +40,10 @@ We will predict the survival of patients with heart failure from serum creatinin
 ![alt text](media/tb3.PNG)</br>
 ![alt text](media/image9.png)</br></br>
 
+## Classification:
+![alt text](media/tb4.PNG)</br>
+<b>Classification - Loss Function: Categorical_crossentropy : </b>
+![alt text](media/image2.png)</br>
+![alt text](media/tb5.PNG)</br>
+<b>Classification - Loss Function: Mean_squared_error :</b>
 
