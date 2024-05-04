@@ -17,7 +17,6 @@ We will predict the survival of patients with heart failure from serum creatinin
 - To classify / predict whether a patient is prone to heart failure depending on multiple attributes.
 - It is a binary classification with multiple numerical and categorical features.
 
-
 ## About the data:
 - age: Age of the patient
 - anemia: If the patient had the hemoglobin below the normal range
@@ -33,13 +32,6 @@ We will predict the survival of patients with heart failure from serum creatinin
 - time: It is the time of the patient's follow-up visit for the disease in months
 - DEATH_EVENT: If the patient deceased during the follow-up period
 
-## Summary of Validation Accuracy(Closing Call)
-![alt text](media/tb1.PNG)</br>
-![alt text](media/tb2.PNG)</br>
-![alt text](media/image10.png)</br>
-![alt text](media/tb3.PNG)</br>
-![alt text](media/image9.png)</br></br>
-
 ## Classification:
 ![alt text](media/tb4.PNG)</br>
 <b>Classification - Loss Function: Categorical_crossentropy : </b>
@@ -50,5 +42,14 @@ We will predict the survival of patients with heart failure from serum creatinin
 ![alt text](media/tb6.PNG)</br>
 <b>Classification - Loss Function: Binary_crossentropy : </b>
 ![alt text](media/image4.png)</br>
+
+
+## Summary of Validation Accuracy(Closing Call)
+![alt text](media/tb1.PNG)</br>
+![alt text](media/tb2.PNG)</br>
+![alt text](media/image10.png)</br>
+![alt text](media/tb3.PNG)</br>
+![alt text](media/image9.png)</br></br>
+
 
 
